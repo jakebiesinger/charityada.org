@@ -1,13 +1,17 @@
 ---
-title: "About"
-date: 2019-05-12T12:14:34+06:00
-description: "This is meta description."
-author_image : "images/about/author.jpg"
-author_signature : "images/about/signature.png"
+title: Our Team
+date: 2019-05-12T06:14:34+00:00
+description: About the members of Charity for All and Development for Africa
+author_image: ''
+author_signature: ''
+
 ---
+### We are Charity ADA.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We are a small group with big dreams trying to make a difference in the world. We span the globe and work directly with aid recipients, striving to lift children out of poverty through education.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
+### Leadership
 
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+![](/images/img_1319.JPG)
+
+![](/images/img_0197.JPG)
