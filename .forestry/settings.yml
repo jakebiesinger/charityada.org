@@ -5,8 +5,13 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: content/portfolio
-  label: Portfolio
+  path: content/about
+  label: About Us
+  create: none
+  match: "*"
+- type: directory
+  path: content/projects
+  label: Projects
   create: none
   match: "*"
 - type: directory
@@ -16,17 +21,6 @@ sections:
   match: "*"
   templates:
   - post
-- type: directory
-  path: content/about
-  label: About
-  create: none
-  match: "*"
-- type: directory
-  path: data
-  label: Data
-  create: documents
-  match: "*"
-  new_doc_ext: yml
 - type: directory
   path: content/contact
   label: Contact
